@@ -20,5 +20,9 @@ This project analyzes Amazon product data using SQL to extract insights about:
 ## 📂 Files
 - queries.sql → Contains all analysis queries
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 🚀 Author
 Zayana Khan
